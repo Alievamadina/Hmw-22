@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hmw-22/static/css/main.5a44ace7.css",
+    "main.js": "/Hmw-22/static/js/main.57b1e097.js",
+    "static/media/summary-background.jpg": "/Hmw-22/static/media/summary-background.058e3a5749d88597754f.jpg",
+    "index.html": "/Hmw-22/index.html",
+    "main.5a44ace7.css.map": "/Hmw-22/static/css/main.5a44ace7.css.map",
+    "main.57b1e097.js.map": "/Hmw-22/static/js/main.57b1e097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a44ace7.css",
+    "static/js/main.57b1e097.js"
+  ]
+}
